@@ -78,13 +78,13 @@ body{font-family: 'Montserrat', sans-serif;}
     color: #000;
 }
 
-#education table tr.school-1 td:first-child {
+#education table tr.SSLC td:first-child {
     width: 120px;
     color: gray;
     padding-bottom: 25px;
 }
 
-#education table tr.school-2 td:first-child {
+#education table tr.HSC td:first-child {
     padding-bottom: 25px;
 }
 
