@@ -75,7 +75,8 @@
   
   /* banner finish */
   .about-container {
-  
+  width:80%;
+      padding:10px;
     background-image: #5902EC;
   }
   
